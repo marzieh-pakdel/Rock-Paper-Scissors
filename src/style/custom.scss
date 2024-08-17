@@ -1,0 +1,66 @@
+$primary: #D9D9D9;
+$secondary: #070A52;
+$danger: #DF2E38;
+
+.br-25 {
+    border-radius: 25px;
+}
+
+.gap-46 {
+    gap: 2.875rem;
+}
+
+.px-64 {
+    padding-right: 4rem;
+    padding-left: 4rem;
+}
+
+.py-211 {
+    padding-top: 13.188rem;
+    padding-bottom: 13.188rem;
+}
+
+.w-720 {
+    width: 45rem;
+}
+
+.fs-37 {
+    font-size: 2.313rem;
+}
+
+.font-inter {
+    font-family: "Inter";
+}
+
+.top-154 {
+    top: 9.625rem;
+}
+
+// .center {
+//     top: 50%;
+//     left: 50%;
+//     transform: translate(-50%, -50%);
+//     position: absolute;
+// }
+
+.btn {
+    border-radius: 14px !important;
+}
+
+.start {
+    padding: 1.75rem 3rem !important;
+}
+
+.fs-27 {
+    font-size: 1.688rem !important; 
+}
+
+.top-17 {
+    top: 1.063rem;
+}
+
+.right-17 {
+    right: 1.063rem;
+}
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
